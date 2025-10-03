@@ -31,10 +31,9 @@ Idéal pour la révision, l’auto-évaluation, les QCM, ou l’apprentissage pr
 ## Conseils
 
 - Créez des boutons personnalisés dans le ruban pour un accès rapide.
-- Utilisez le mode révision pour tester vos connaissances sans tricher !
 
 ## Dépendances
-- Microsoft Word (version supportant VBA)
+- Microsoft Word (version supportant VBA)- marche uniquement sur Word pas d'export vers PDF ou LibreOffice
 
 ## Auteur(e) / Licence
 
