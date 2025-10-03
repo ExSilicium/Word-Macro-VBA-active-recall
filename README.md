@@ -1,7 +1,6 @@
 # Macro Word — Masquage Interactif (Active Recall)
 
-Macro VBA pour Microsoft Word permettant de masquer/révéler du contenu à l’aide de rectangles interactifs (Active Recall).  
-Idéal pour la révision, l’auto-évaluation, les QCM, ou l’apprentissage progressif.
+Macro VBA pour Microsoft Word permettant de masquer/révéler du contenu à l’aide de rectangles interactifs (Active Recall). 
 
 ## Fonctionnalités principales
 
