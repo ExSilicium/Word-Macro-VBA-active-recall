@@ -18,14 +18,6 @@ Macro VBA pour Microsoft Word permettant de masquer/révéler du contenu à l’
 3. Copiez la partie “Document_Open” dans le module `ThisDocument` de votre document Word si besoin.
 4. Enregistrez votre document au format `.docm` (Word avec macros).
 
-## Utilisation rapide
-
-- Cliquez sur “Activer Mode Dessin”, puis utilisez `Insertion > Formes > Rectangle` pour dessiner sur les zones à masquer.
-- Cliquez sur “Appliquer Masquage” : les rectangles deviennent interactifs.
-- Pour révéler : double-cliquez sur un rectangle ou sélectionnez-le puis cliquez sur “Révéler Sélection”.
-- Utilisez “Basculer Tous” pour tout révéler/masquer d’un coup.
-- “Changer Couleur” : modifie la couleur de tous les masques.
-- “Statistiques” : affiche la progression de votre révision.
 
 ## Conseils
 
@@ -33,8 +25,3 @@ Macro VBA pour Microsoft Word permettant de masquer/révéler du contenu à l’
 
 ## Dépendances
 - Microsoft Word (version supportant VBA)- marche uniquement sur Word pas d'export vers PDF ou LibreOffice
-
-## Auteur(e) / Licence
-
-- Auteur : Yoxen
-- Licence : Libre
