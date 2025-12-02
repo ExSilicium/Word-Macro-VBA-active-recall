@@ -9,7 +9,6 @@ Macro VBA pour Microsoft Word permettant de masquer/révéler du contenu à l’
 - Changement de couleur des masques
 - Statistiques de progression
 - Suppression de tous les masques
-- Aide intégrée et instructions
 
 ## Installation
 
@@ -24,4 +23,4 @@ Macro VBA pour Microsoft Word permettant de masquer/révéler du contenu à l’
 - Créez des boutons personnalisés dans le ruban pour un accès rapide.
 
 ## Dépendances
-- Microsoft Word (version supportant VBA)- marche uniquement sur Word pas d'export vers PDF ou LibreOffice
+- Microsoft Word (version supportant VBA)- marche uniquement sur Word
