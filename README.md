@@ -5,7 +5,7 @@ Macro VBA pour Microsoft Word permettant de masquer/révéler du contenu à l’
 ## Fonctionnalités principales
 
 - Masquage de texte par rectangles de couleur (mode dessin)
-- Révélation progressive (mode révision)
+- Révélation progressive 
 - Changement de couleur des masques
 - Statistiques de progression
 - Suppression de tous les masques
